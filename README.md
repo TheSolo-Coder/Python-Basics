@@ -6,7 +6,7 @@ My Python learning journey, starting with the fundamentals and progressing towar
 
 ### Python Basics
 - [x] 01. Hello World
-- [ ] 02. Print Statements
+- [x] 02. Print Statements
 - [ ] 03. Variables
 - [ ] 04. Data Types
 - [ ] 05. User Input
