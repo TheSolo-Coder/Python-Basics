@@ -8,7 +8,7 @@ My Python learning journey, starting with the fundamentals and progressing towar
 - [x] 01. Hello World
 - [x] 02. Print Statements
 - [x] 03. Variables
-- [ ] 04. Data Types
+- [x] 04. Data Types
 - [ ] 05. User Input
 
 More lessons and projects will be added as I progress.
