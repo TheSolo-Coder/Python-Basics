@@ -11,6 +11,7 @@ My Python learning journey, starting with the fundamentals and progressing towar
 - [x] 04. Data Types
 - [x] 05. User Input
 - [x] 06. Operators
+- [x] 07. Conditions
 
 More lessons and projects will be added as I progress.
 
